@@ -1,5 +1,5 @@
 {
-    "name": "requirejs",
+    "name": "@handshake/requirejs",
     "description": "Node adapter for RequireJS, for loading AMD modules. Includes RequireJS optimizer",
     "version": "2.2.1",
     "homepage": "http://github.com/jrburke/r.js",
